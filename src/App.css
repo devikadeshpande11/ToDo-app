@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  text-align: center;
+  /* background:rgb(0, 0, 19); */
+  width: 40vw;
+  margin: 10em auto;
+  padding: 20px 10px;
+  border:rgb(128, 125, 125) 3px solid;
+  /* color:rgb(206, 197, 197); */
+  
+}
+.tasks{
+  border: 1px solid white;
+      border-radius: 5px;
+      padding: 0.5em;
+      margin: 0.5em;
+}
